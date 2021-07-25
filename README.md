@@ -16,4 +16,4 @@ Table of Contents:
 
 3) Notebook:
 
-   Notebook containing the data analysis and ML code used for this project.
+   [Notebook](https://github.com/KetakiN/Sentiment_Analysis/blob/main/amz_reviews_final.ipynb) containing the data analysis and ML code used for this project.

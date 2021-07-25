@@ -11,7 +11,8 @@ Table of Contents:
 2) Docs:
 
    Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project presentation
-   Power Point Presentation containing complete summary and findings for the project.
+   
+   [Power Point Presentation](https://github.com/KetakiN/Sentiment_Analysis/blob/main/Sentiment%20Analysis_slides.pptx.pdf) containing complete summary and findings for the project.
 
 3) Notebook:
 

@@ -10,7 +10,7 @@ Table of Contents:
 
 2) Docs:
 
-   [Report](https://github.com/KetakiN/Sentiment_Analysis/blob/main/AMZ_EDA.docx.pdf) containing data wrangling, exploratory data analysis, and machine learning explanation for the project presentation
+   [Report](https://github.com/KetakiN/Sentiment-Analysis/blob/main/Amazon%20Reviews_%20Sentiment%20Analysis%20Report.docx.pdf) containing data wrangling, exploratory data analysis, and machine learning explanation for the project presentation
    
    [Power Point Presentation](https://github.com/KetakiN/Sentiment-Analysis/blob/main/Sentiment%20Analysis%20Slides.pdf) containing complete summary and findings for the project.
 
